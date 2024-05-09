@@ -1,0 +1,5 @@
+Django==5.0.6
+python-environ==0.4.54
+pyTelegramBotAPI==4.17.0
+redis==5.0.4
+djangorestframework==3.15.1
